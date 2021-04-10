@@ -5,5 +5,6 @@ public class Hello {
 		System.err.println("hello git");
 		
 		System.out.println("hello");
+		System.out.println("hello");
 	}
 }
